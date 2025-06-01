@@ -1,0 +1,16 @@
+{
+    "best_parameters": {
+        "n_estimators": 300,
+        "max_depth": 10,
+        "min_samples_split": 8,
+        "min_samples_leaf": 5,
+        "max_features": "log2"
+    },
+    "test_metrics": {
+        "test_roc_auc": 0.7630141662399728,
+        "test_f1": 0.2553191489361702,
+        "test_precision": 0.375,
+        "test_recall": 0.1935483870967742,
+        "test_accuracy": 0.9144254278728606
+    }
+}

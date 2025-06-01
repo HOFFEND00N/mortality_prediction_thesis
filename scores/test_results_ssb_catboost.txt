@@ -1,0 +1,5 @@
+Test ROC AUC: 0.6634
+Test F1 Score: 0.1479
+Test Precision: 0.0809
+Test Recall: 0.8621
+Test Accuracy: 0.2672

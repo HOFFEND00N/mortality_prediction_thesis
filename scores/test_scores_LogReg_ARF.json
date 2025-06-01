@@ -1,0 +1,14 @@
+{
+    "best_parameters": {
+        "C": 0.07416188374104146,
+        "max_iter": 200,
+        "solver": "sag"
+    },
+    "test_metrics": {
+        "test_roc_auc": 0.7804232804232805,
+        "test_f1": 0.3684210526315789,
+        "test_precision": 0.3111111111111111,
+        "test_recall": 0.45161290322580644,
+        "test_accuracy": 0.882640586797066
+    }
+}

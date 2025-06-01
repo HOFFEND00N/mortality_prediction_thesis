@@ -1,0 +1,5 @@
+ROC AUC: 0.579386131110269
+F1: 0.0
+Precision: 0.0
+Recall: 0.0
+Accuracy: 0.926208651399491
