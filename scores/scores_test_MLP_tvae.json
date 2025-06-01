@@ -1,0 +1,1 @@
+{"test_evaluation_metrics": {"roc_auc": 0.7211981566820277, "f1": 0.29213483146067415, "precision": 0.22413793103448276, "recall": 0.41935483870967744, "accuracy": 0.8459657701711492}, "best_parameters": {"hidden_size": 160, "num_layers": 4, "dropout_rate": 0.4690413837305166, "learning_rate": 0.00016791967604353806, "batch_size": 128, "epochs": 40}}

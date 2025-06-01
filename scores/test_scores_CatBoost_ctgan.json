@@ -1,0 +1,16 @@
+{
+    "best_parameters": {
+        "iterations": 400,
+        "depth": 8,
+        "learning_rate": 0.01780769004704398,
+        "l2_leaf_reg": 4.6744281551879405,
+        "border_count": 64
+    },
+    "test_metrics": {
+        "test_roc_auc": 0.6833077316948285,
+        "test_f1": 0.047619047619047616,
+        "test_precision": 0.09090909090909091,
+        "test_recall": 0.03225806451612903,
+        "test_accuracy": 0.902200488997555
+    }
+}
